@@ -21,7 +21,7 @@ Each folder contains:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/toxicity-admet-models.git](https://github.com/kbarakat/B_Shaker_et_al_2026.git)
+git clone https://github.com/kbarakat/B_Shaker_et_al_2026.git
 cd toxicity-admet-models
 pip install -r requirements.txt
 ```
