@@ -1,0 +1,6 @@
+*.memmap filter=lfs diff=lfs merge=lfs -text
+hERG/model_*.joblib filter=lfs diff=lfs merge=lfs -text
+DILI/model_*.joblib filter=lfs diff=lfs merge=lfs -text
+AMES_mutagenicity/model_*.joblib filter=lfs diff=lfs merge=lfs -text
+Hematotoxicity/model_*.joblib filter=lfs diff=lfs merge=lfs -text
+Carcinogenicity/model_*.joblib filter=lfs diff=lfs merge=lfs -text
