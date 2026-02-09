@@ -60,9 +60,13 @@ Output CSV contains:
 ## Requirements
 
 scikit-learn==1.3.2
+
 rdkit>=2023.03
+
 pandas>=1.5.0
+
 numpy>=1.23.0
+
 joblib>=1.2.0
 
 
