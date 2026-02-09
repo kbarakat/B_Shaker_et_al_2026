@@ -9,7 +9,7 @@ Each folder contains:
 - `model_randomforest.joblib`, `model_xgboost.joblib`, `model_lightgbm.joblib`, `model_catboost.joblib` — individual models
 - `preprocessing_pipeline.joblib` — feature scaling/preprocessing
 - `features_list.csv` — feature names
-- `Train, Test, and Validation csvs` — Datasets
+- `Train, Test, and Validation csv filies` — Datasets
   
 ### Toxicity Endpoints
 - **AMES_mutagenicity** — AMES bacterial reverse mutation test
