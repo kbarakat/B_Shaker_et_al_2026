@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "ames_classification_output_Desalting_advanced/model_randomforest.joblib"
+  },
+  {
+    "name": "XGBoost",
+    "path": "ames_classification_output_Desalting_advanced/model_xgboost.joblib"
+  },
+  {
+    "name": "LightGBM",
+    "path": "ames_classification_output_Desalting_advanced/model_lightgbm.joblib"
+  },
+  {
+    "name": "CatBoost",
+    "path": "ames_classification_output_Desalting_advanced/model_catboost.joblib"
+  }
+]

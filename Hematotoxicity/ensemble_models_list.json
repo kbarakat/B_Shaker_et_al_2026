@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "Hemadata_Training__Model-1_gemini/model_randomforest.joblib",
+    "weight": 0.334626741966836
+  },
+  {
+    "name": "XGBoost",
+    "path": "Hemadata_Training__Model-1_gemini/model_xgboost.joblib",
+    "weight": 0.3328594551701966
+  },
+  {
+    "name": "CatBoost",
+    "path": "Hemadata_Training__Model-1_gemini/model_catboost.joblib",
+    "weight": 0.33251380286296744
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "Hemadata_Training__Model-1_gemini/model_randomforest.joblib"
+  },
+  {
+    "name": "XGBoost",
+    "path": "Hemadata_Training__Model-1_gemini/model_xgboost.joblib"
+  },
+  {
+    "name": "LightGBM",
+    "path": "Hemadata_Training__Model-1_gemini/model_lightgbm.joblib"
+  },
+  {
+    "name": "CatBoost",
+    "path": "Hemadata_Training__Model-1_gemini/model_catboost.joblib"
+  }
+]

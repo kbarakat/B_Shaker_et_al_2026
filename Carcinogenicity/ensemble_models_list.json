@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "Carcinogenicity/model_randomforest.joblib",
+    "weight": 0.3340124257067331
+  },
+  {
+    "name": "CatBoost",
+    "path": "Carcinogenicity/model_catboost.joblib",
+    "weight": 0.3333950690036424
+  },
+  {
+    "name": "XGBoost",
+    "path": "Carcinogenicity/model_xgboost.joblib",
+    "weight": 0.33259250528962453
+  }
+]

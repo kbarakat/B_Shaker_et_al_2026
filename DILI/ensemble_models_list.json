@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "Excle_based_dublication_Model_gemini/model_randomforest.joblib",
+    "weight": 0.33502901526396744
+  },
+  {
+    "name": "CatBoost",
+    "path": "Excle_based_dublication_Model_gemini/model_catboost.joblib",
+    "weight": 0.33282297788160986
+  },
+  {
+    "name": "LightGBM",
+    "path": "Excle_based_dublication_Model_gemini/model_lightgbm.joblib",
+    "weight": 0.3321480068544228
+  }
+]

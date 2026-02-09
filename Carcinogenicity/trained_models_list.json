@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "Desalt_carcino_merged_dataset_Model-1Model_gemini/model_randomforest.joblib"
+  },
+  {
+    "name": "XGBoost",
+    "path": "Desalt_carcino_merged_dataset_Model-1Model_gemini/model_xgboost.joblib"
+  },
+  {
+    "name": "LightGBM",
+    "path": "Desalt_carcino_merged_dataset_Model-1Model_gemini/model_lightgbm.joblib"
+  },
+  {
+    "name": "CatBoost",
+    "path": "Desalt_carcino_merged_dataset_Model-1Model_gemini/model_catboost.joblib"
+  }
+]

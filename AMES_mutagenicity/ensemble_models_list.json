@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CatBoost",
+    "path": "AMES_mutagenicity/model_catboost.joblib",
+    "weight": 0.3354052895039137
+  },
+  {
+    "name": "LightGBM",
+    "path": "AMES_mutagenicity/model_lightgbm.joblib",
+    "weight": 0.3331343083891511
+  },
+  {
+    "name": "RandomForest",
+    "path": "AMES_mutagenicity/model_randomforest.joblib",
+    "weight": 0.3314604021069353
+  }
+]

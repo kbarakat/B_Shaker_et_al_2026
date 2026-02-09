@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RandomForest",
+    "path": "ames_classification_output_Desalting_advanced/model_randomforest.joblib",
+    "weight": 0.3336396385991325
+  },
+  {
+    "name": "CatBoost",
+    "path": "ames_classification_output_Desalting_advanced/model_catboost.joblib",
+    "weight": 0.33332965835592576
+  },
+  {
+    "name": "LightGBM",
+    "path": "ames_classification_output_Desalting_advanced/model_lightgbm.joblib",
+    "weight": 0.3330307030449418
+  }
+]
