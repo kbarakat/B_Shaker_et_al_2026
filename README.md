@@ -85,4 +85,4 @@ All models trained on standardized molecular descriptors + Morgan fingerprints +
 
 ## Citation
 
-Manuscript is submitted in "COmputers in Biology and Medicines"
+Manuscript is submitted in "Computers in Biology and Medicines"
