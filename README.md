@@ -25,6 +25,7 @@ git clone https://github.com/kbarakat/B_Shaker_et_al_2026.git
 cd toxicity-admet-models
 pip install -r requirements.txt
 ```
+## If there is any problem regarding environment creation, as an alternative: follow the instruction in "ENVIRONMENT_GUIDE.md" file.
 
 ## Usage
 
