@@ -62,19 +62,5 @@ Expected versions used to produce the reference output:
 - catboost 1.2.5
 - lightgbm 4.5.0
 
-**Validate Output Matches Reference**
-```bash
-conda run -p .conda_env python - <<'PY'
-import pandas as pd, numpy as np
-new = pd.read_csv('all_predictions.csv')
-ref = pd.read_csv('all_predictions_test.csv')
-print('columns match:', list(new.columns) == list(ref.columns))
-print('SMILES match:', (new['SMILES'] == ref['SMILES']).all())
-print('max abs diff:', np.nanmax(np.abs(new.drop(columns=['SMILES']).values - ref.drop(columns=['SMILES']).values)))
-PY
-```
 
-**Troubleshooting**
-- If results differ, the environment is not exact. The most common cause is a different RDKit build.
-- Ensure the same model map is used (AMES + hERG require `ensemble`).
-- Ensure the input `SMILES` order is unchanged.
+
