@@ -82,6 +82,12 @@ All models trained on standardized molecular descriptors + Morgan fingerprints +
 - **hERG**: Ensemble
 - **Hematotoxicity**: Random Forest
 
+## NOTE
+In any case if you are uable to download real files of models or any, please use following Google drive link as alternative for download
+```bash
+https://drive.google.com/file/d/1E0GrAWn8e4xen6GszfPxRem7ZE0-L8Gg/view?usp=sharing
+```
+
 
 ## Citation
 
