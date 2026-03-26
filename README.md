@@ -86,7 +86,7 @@ All models trained on standardized molecular descriptors + Morgan fingerprints +
 ## NOTE
 In any case if you are uable to download real files of models or any, please use following Google drive link as alternative for download
 ```bash
-https://drive.google.com/file/d/1-jKbAg7n_4ZfuPIIZtHKmBTVg2TbQ79c/view?usp=sharing
+https://drive.google.com/file/d/17m0dYu2iOEvWbpgxvdO_qFa5J-Q6wBSH/view?usp=sharing
 ```
 
 
